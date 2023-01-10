@@ -1,5 +1,5 @@
 import { expect, jest, describe, beforeEach, it } from "@jest/globals"
-import { createContainer } from "../src"
+import { createContainer } from "../src/iti"
 import { wait } from "./_utils"
 
 describe("Disposing: ", () => {

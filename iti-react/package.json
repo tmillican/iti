@@ -6,7 +6,8 @@
   "sideEffects": false,
   "source": "src/index.ts",
   "exports": {
-    "default": "./dist/iti-react.modern.js"
+    "default": "./dist/iti-react.modern.js",
+    "types": "./dist/src/index.d.ts"
   },
   "main": "./dist/iti-react.modern.js",
   "module": "./dist/iti-react.module.js",

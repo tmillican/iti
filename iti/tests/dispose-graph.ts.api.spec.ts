@@ -1,5 +1,5 @@
 import { expect, jest, describe, beforeEach, it } from "@jest/globals"
-import { createContainer } from "../src"
+import { createContainer } from "../src/iti"
 import { wait } from "./_utils"
 import { A, X, B, C, D, L, K, E, M, F } from "./mock-graph"
 
